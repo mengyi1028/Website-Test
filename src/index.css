@@ -1,0 +1,114 @@
+
+body {
+    width:961px;
+    margin: 15px auto;
+    background-color:  #252829;
+    font-family: Arial;
+}
+#logo{
+  margin-top:20px;
+}
+.ezio:hover{
+  transform: scale(1.1);
+}
+.kill:hover{
+  transform: scale(1.1);
+}
+.cliff:hover{
+  transform: scale(1.1);
+}
+.cliff img{
+  margin-left:-20px;
+}
+.kill img{
+  margin-left:-20px;
+}
+.ezio img{
+  margin-left:-20px;
+}
+.slide{
+  border:1px solid red;
+  padding: 10px;
+  margin-top:-150px;
+  margin-left:10px;
+  position:absolute;
+  background-color: black;
+  width:72%;
+  z-index: 10;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    border-right:1px solid #bbb;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    color: #891016;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height:100vh;
+   
+  }
+  table{
+    background-color: black;
+  }
+  th {
+    padding-left: 15px;
+    color:white;
+    background-color: #891016;
+    text-align: left;
+    font-size: 1em;
+  }
+ #intro {
+    text-align: left;
+    color:white;
+    display:block;
+    font-size:0.825em;
+  }
+#bo {
+  border:1px solid red;
+}
+.title{
+  color:#891016;
+  font-size:0.99em;
+}
+.foot{
+  text-align: center;
+}
+.foot img{
+  margin-top:30px;
+  
+}
+#copyright{  
+  color: #f0f0f0;
+  display: flex;
+  justify-content: space-evenly;
+  text-align:right;  
+  padding: 1rem; 
+ 
+}
+.intro{
+  margin:30px;
+}
