@@ -1,4 +1,5 @@
-![image](https://github.com/megan1028/Candy-Museum/blob/master/candy.png)
+![image](https://github.com/megan1028/Website-Test/blob/master/screenshot.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
